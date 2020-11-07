@@ -1,0 +1,21 @@
+.head{
+    background-image: url("image/1488189061prec.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.logo img{
+    padding-top: 10px;
+    border-radius: 50%;
+    
+}
+.head h1{
+    color:black;
+    font-weight: 700;
+}
+label{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
